@@ -1,8 +1,8 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'ចង់បើកតន្ត្រីផ្ទៃក្រោយទេ? 🎶',
-        text: 'បើកសម្លេងបន្តិច នឹងធ្វើឲ្យវីដេអូថ្ងៃកំណើតនេះផ្អែមជាងមុន',
+        title: 'ចង់បើកតន្ត្រីទេ? 🎶',
+        text: 'តន្ត្រីនឹងធ្វើអោយអ្នករាំ 🌚',
         icon: 'question',
         showCancelButton: true,
         background: '#fff8fb',
